@@ -1,0 +1,35 @@
+  .Purchase {
+      display:flex;
+      justify-content:space-between;
+      }
+    .item{
+        display:flex;
+        justify-content:space-between;
+        }      
+    .out{
+        display:flex;
+        justify-content:space-between;}    
+    h1 {
+    background-color: #ffccff;
+     border-style: solid;
+    border-width: 5px;
+
+    }
+
+    div {
+         background-color: violet;
+          border-style: solid;
+     border-width: 2px;
+
+           }
+
+    p {
+    background-color: #ccffff;
+     border-style: solid;
+  border-width: 3px;
+
+    }
+
+    button{
+    background-color:#ff99cc;
+    }
